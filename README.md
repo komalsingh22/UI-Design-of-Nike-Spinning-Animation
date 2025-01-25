@@ -3,7 +3,7 @@
 This project showcases a Nike shoe spinning animation created in Figma. The animation includes drag interaction and button-triggered animation for the main shoe.
 
 ## Project Link
-[Landing Page of Nike Spinning Animation on Figma](https://www.figma.com/design/uaovkdrjLa3cmr1lkigZaR/Nike-spinning-animation?node-id=0-1&p=f&t=axWb3L8yhxHe81NC-0)
+[Landing Page of Nike Spinning Animation on Figma](https://www.figma.com/design/uaovkdrjLa3cmr1lkigZaR/Nike-spinning-animation?node-id=0-1&t=A3njvmvsgiNPqJdt-1)
 
 ## Features
 
